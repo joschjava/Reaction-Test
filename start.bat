@@ -1,0 +1,2 @@
+cd C:\Workspace\ReactionTest\
+start javaw --module-path "C:\JavaFx\javafx-sdk-11.0.2\lib" --add-modules=javafx.controls,javafx.fxml -jar "C:\Workspace\ReactionTest\build\libs\Reaction Test-1.0-SNAPSHOT.jar"
